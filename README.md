@@ -19,13 +19,14 @@ This project demonstrates the ability to transform a Figma design into a fully r
 ✔ Organized folder structure for CSS and images  
 
 ## 📁 Project Structure
+```
 3OTOL-WebSite/
 ├── index.html
 ├── css/
 │ └── style.css
 ├── img/
 └── README.md
-
+```
 ## 📌 How to Run Locally
 1. Clone the repository:
 ```bash
